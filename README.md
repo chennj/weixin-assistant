@@ -11,3 +11,14 @@ weixin-assistant\MFCWebDemo\Release
 vs2015 win10 64位。为了方便快速书写界面，使用的是MFC库
 
 仍在持续完善中
+
+The compiled injection tools and injected DLLs are located at:
+weixin-assistant\微信助手\Release
+
+The compiled test project is located at:
+weixin-assistant\MFCWebDemo\Release
+
+Run and test environment
+vs2015 win10 64位
+
+Still continue to improve
